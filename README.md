@@ -1,11 +1,3 @@
-<div align="center">
-
 # Java-DSA
 
-My personal journal of DSA journey, feel free to look around, email/contact me at
-
-[![Gmail](https://shields.io)](https://google.com) [![Instagram](https://shields.io)](https://instagram.com)
-
-for any suggestions. Currently learning and solving from NeetCode and LeetCode. I don't like to add documentation ✌️
-
-</div>
+My personal journal of DSA journey, feel free to look around, email/contact me at [<img src="https://simpleicons.org" width="16" height="16" valign="middle"> **Gmail**](https://google.com) or [<img src="https://simpleicons.org" width="16" height="16" valign="middle"> **Instagram**](https://instagram.com) for any suggestions. Currently learning and solving from NeetCode and LeetCode. I don't like to add documentation ✌️
