@@ -1,20 +1,11 @@
+<div align="center">
+
 # Java-DSA
 
-> 📝 **My personal journal of my DSA journey.** 
-> Feel free to look around and explore my solutions!
+My personal journal of DSA journey, feel free to look around, email/contact me at
 
----
+[![Gmail](https://shields.io)](https://google.com) [![Instagram](https://shields.io)](https://instagram.com)
 
-### 🚀 About This Repository
-Currently learning and solving DSA problems from **NeetCode** and **LeetCode**. 
-*(Note: I don't really like adding documentation ✌️)*
+for any suggestions. Currently learning and solving from NeetCode and LeetCode. I don't like to add documentation ✌️
 
----
-
-### 📫 Connect & Contact Me
-Click the badges below to get in touch or open an email window directly:
-
-[![Email](https://shields.io)](mailto:gopesambit2009@gmail.com)
-[![Instagram](https://shields.io)](https://instagram.com)
-
----
+</div>
